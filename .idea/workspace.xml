@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1612cc26-2ec9-426b-b896-6b0c68a6d88a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/four.txt" beforeDir="false" afterPath="$PROJECT_DIR$/four.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +32,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "git-widget-placeholder": "development",
+    "git-widget-placeholder": "staging",
     "last_opened_file_path": "/Users/himanshumahakud/Desktop/Month3-Git-Practice",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
